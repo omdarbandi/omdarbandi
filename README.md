@@ -10,7 +10,7 @@ Leveraging 3 years of industry experience to build impactful data solutions.
 
 Focused on: Product Management, Consulting, and Biotech Insights.
 
-* 🌍  I'm based in Madison, WI
+* 🌍  I'm based in Irvine, CA
 * 🖥️  See my portfolio at [LinkedIn](http://https://www.linkedin.com/in/omid-darbandi/)
 * ✉️  You can contact me at [omdarbandi@gmail.com](mailto:omdarbandi@gmail.com)
 * 🧠  I'm currently learning AI for predictive analysis and integrating Generative AI into business workflows
