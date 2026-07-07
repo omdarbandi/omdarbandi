@@ -1,7 +1,7 @@
 Hi 👋 My name is Omid Darbandi
 ==============================
 
-Product Manager
+Business Analyst
 ---------------
 
 🎓 MS in Business Analytics @ UW-Madison | 🧬 Ex-Biotech Professional
